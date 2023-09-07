@@ -1,4 +1,4 @@
-# I AM RISHI MADAM
+# I AM RISHI MADAN
 I am a highly skilled and experienced software engineer with a strong foundation in computer science. I am proficient in various programming languages, including Python, C++, C, Java, and JavaScript. I am familiar with several tools and technologies like Git, Linux, Windows, Scikit-Learn, and Keras. I'm a final-year undergraduate student.
 
 I have a proven track record of success in developing and implementing software solutions. I have worked on various projects, including developing a deep learning model for food quality evaluation, using NLP to classify emotions in Twitter data, and creating an object detection web app.
